@@ -1,1 +1,4 @@
 # Advanced-Fire-Fighting-Car
+The Advanced Fire Fighting Car is a robotic platform capable of identifying and extinguishing fires along with other environmental sensors including temperature, humidity and air quality sensors. It employs real-time video streaming for remote monitoring, and has an IP camera to record operations. Multiple Arduino Nano microcontrollers control the system, and a Bluetooth module allows your entire setup to be operated remotely. Its major functions are fire extinguishing, environmental monitoring, integrated lighting for better visibility within operations.
+This project combines robotics and IoT to provide an innovative solution for firefighting and safety monitoring.
+The Advanced Fire Fighting Car is an automated robotic system that detects and extinguishes fires while monitoring environmental conditions. It streams live video, records operations, and is remotely controlled using sensors, cameras, and microcontrollers.
